@@ -1,1 +1,3 @@
+Size information
+
 * Bernard XXL
